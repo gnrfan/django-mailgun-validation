@@ -16,7 +16,7 @@ http://blog.mailgun.com/post/free-email-validation-api-for-web-forms/
 Usage:
 
 ```
-pip install mailgun_validation
+pip install django-mailgun-validation
 ```
 
 Alternatively:
