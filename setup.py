@@ -14,5 +14,6 @@ setup(name='django-mailgun-validation',
     },
     install_requires=[
         'requests',
+        'Django'
     ]
 )
