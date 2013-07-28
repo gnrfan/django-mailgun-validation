@@ -1,0 +1,29 @@
+# Editor/IDE files
+*.swp
+*.swo
+.emacs-project
+*~
+
+*.log
+*.pot
+env
+media
+
+*.py[co]
+local_settings.py
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
