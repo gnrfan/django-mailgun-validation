@@ -1,1 +1,2 @@
 include README.md AUTHORS LICENSE
+recursive-include mailgun_validation *
