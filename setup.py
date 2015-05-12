@@ -8,6 +8,8 @@ setup(name='django-mailgun-validation',
     url='https://github.com/gnrfan/django-mailgun-validation',
     packages=[
         'mailgun_validation',
+        'mailgun_validation.db.models',
+        'mailgun_validation.forms',
     ],
     package_dir={
         'mailgun': 'mailgun_validation',
